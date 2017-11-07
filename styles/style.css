@@ -2,6 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 html {
     -ms-overflow-style: scrollbar;
 }
@@ -1618,9 +1622,15 @@ h6.lbl_name {
     text-align: center;
 }
 
+<<<<<<< HEAD
+    /*.inline_icn span {
+        padding: 0 15px;
+    }*/
+=======
     .inline_icn span {
         padding: 0 15px;
     }
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 
         .inline_icn span i {
             color: #b2b2b2;
@@ -2095,7 +2105,11 @@ h6.lbl_name {
     font-weight: 400;
 }
 
+<<<<<<< HEAD
+.cmn_card_gjt {
+=======
 .cmn_card {
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
     background-color: #f8f8f8;
     border: 1px solid #ccc;
     padding: 15px;
@@ -2456,6 +2470,18 @@ h6.lbl_name {
 /*  end default btn  */
 
 /*  all widget */
+<<<<<<< HEAD
+
+/*           card widgets              */
+
+
+.wid_box {
+    float: left;
+}
+
+
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 .stng_hdr_typ {
     color: #fff;
     font-size: 21px;
@@ -2523,6 +2549,10 @@ h6.lbl_name {
     display: inline-block;
     padding-bottom: 15px;
     padding-right: 10px;
+<<<<<<< HEAD
+    cursor: pointer;
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 }
 
 .total_app {
@@ -2549,18 +2579,34 @@ h6.lbl_name {
         font-weight: 500;
         vertical-align: middle;
     }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 .job_typ {
     border-bottom: 1px solid #ccc;
     font-size: 17px;
     padding-bottom: 15px;
     text-align: center;
 }
+<<<<<<< HEAD
+
+    .job_typ h3 {
+        padding-bottom: 5px;
+    }
+
+.job_kywrd {
+    padding: 20px 10px 30px 15px;
+}
+
+=======
     .job_typ h3 {
         padding-bottom: 5px;
     }
 .job_kywrd {
     padding: 20px 10px 30px 15px;
 }
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 .sub_kywrd {
     background-color: #017db9;
     border-radius: 5px;
@@ -2569,11 +2615,57 @@ h6.lbl_name {
     margin-bottom: 5px;
     margin-right: 5px;
     padding: 4px 15px;
+<<<<<<< HEAD
+    cursor: pointer;
 }
+
+    .sub_kywrd label {
+        cursor: pointer;
+    }
+
+=======
+}
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 .temp_time {
     border-top: 1px solid #ccc;
     font-size: 17px;
     padding-top: 15px;
+<<<<<<< HEAD
+    text-align: center;
+}
+
+    .temp_time span {
+        vertical-align: middle;
+    }
+
+        .temp_time span i {
+            padding-right: 7px;
+            font-size: 20px;
+        }
+
+    .temp_time .bord_rgt {
+        border-right: 1px solid #ccc;
+    }
+
+.usr_prfl_card {
+    padding-top: 30px;
+}
+
+.card_prfl {
+    text-align: center;
+}
+
+    .card_prfl h4 {
+        padding: 10px 0;
+    }
+
+.card_pic {
+    margin: 0 auto;
+    position: relative;
+    width: 12%;
+}
+
+=======
     text-align:center;
 }
 .temp_time span {
@@ -2604,6 +2696,7 @@ h6.lbl_name {
         position: relative;
         width: 12%;
     }
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 .user_status {
     background-color: green;
     border-radius: 50%;
@@ -2613,10 +2706,29 @@ h6.lbl_name {
     top: 3px;
     width: 13px;
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 .card_rate {
     text-align: center;
     padding: 20px 0 0;
 }
+<<<<<<< HEAD
+
+    .card_rate p {
+        font-weight: 500;
+    }
+
+    .card_rate i {
+        font-size: 20px;
+    }
+
+.fa.fa-toggle-on {
+    color: green;
+}
+
+=======
 .card_rate p 
 {
     font-weight:500;
@@ -2627,12 +2739,523 @@ h6.lbl_name {
 .fa.fa-toggle-on {
     color: green;
 }
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 .fa.fa-globe {
     padding-right: 15px;
     vertical-align: middle;
 }
+<<<<<<< HEAD
+
 .sub_rate {
     padding-bottom: 20px;
 }
+
+.client_profile {
+    text-align: center;
+}
+
+.client_info h4 {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.client_info p {
+    padding-bottom: 10px;
+}
+
+.client_info i {
+    font-size: 18px;
+    padding-right: 15px;
+}
+
+.fk_profile {
+    text-align: center;
+}
+
+    .fk_profile p {
+        font-size: 10px;
+        font-weight: 500;
+        padding-top: 10px;
+    }
+
+.fk_card_info h4 {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.fk_card_info {
+    padding-bottom: 20px;
+}
+
+    .fk_card_info h5 {
+        padding-top: 22px;
+    }
+
+.fk_sub_info {
+    padding-top: 15px;
+    border-top: 1px solid #ccc;
+}
+
+    .fk_sub_info p {
+        font-weight: 500;
+    }
+
+.re_logo_card {
+    text-align: center;
+}
+
+.lg_hdr {
+    border-bottom: 1px solid #ccc;
+    font-size: 17px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+    .lg_hdr h3 {
+        padding-bottom: 5px;
+    }
+
+.lg_info {
+    padding-top: 20px;
+}
+
+    .lg_info highlight {
+        font-weight: 500;
+    }
+
+.btm_spc {
+    padding-bottom: 15px;
+}
+
+.lg_status {
+    padding: 10px 0;
+}
+
+    .lg_status i {
+        font-size: 18px;
+        color: green;
+    }
+/*       end card widgets       */
+
+/*      list widgets       */
+.cmn_list_gjt {
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.prjct_list_gjt {
+    font-size: 18px;
+}
+
+.table_list .table {
+    margin-bottom: 0;
+}
+
+.table_list .table-bordered, .table_list .table-bordered td {
+    border: 0;
+}
+
+.table_list th {
+    font-weight: 500;
+}
+
+.table_list td {
+    font-size: 16px;
+}
+
+.table-bordered > tbody > tr > td, .table-bordered > tbody > tr > th, .table-bordered > tfoot > tr > td, .table-bordered > tfoot > tr > th, .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+    border: 0;
+}
+
+.tbl_lst_hdr {
+    border-bottom: 1px solid #ccc;
+}
+
+.perfrm_list {
+    padding-bottom: 25px;
+}
+
+    .perfrm_list:last-child {
+        padding-bottom: 0;
+    }
+
+    .perfrm_list .lbl_value {
+        font-size: 16px;
+    }
+
+    .perfrm_list .inline_icn {
+        font-size: 14px;
+        font-weight: 500;
+        padding: 0;
+    }
+
+        .perfrm_list .inline_icn span i {
+            color: #333;
+            font-size: 20px;
+        }
+
+.prjct_list_gjt .progress_ratio {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+}
+
+.prjct_list_gjt .rt1, .prjct_list_gjt .rt2, .prjct_list_gjt .rt3 {
+    height: 10px;
+}
+
+.prjct_list_gjt .rt2 {
+    background-color: orange;
+}
+
+.prjct_list_gjt .rt3 {
+    background-color: orangered;
+}
+
+.esca_list {
+    padding: 15px 0;
+}
+
+    .esca_list:last-child {
+        padding-bottom: 0;
+    }
+
+    .esca_list .inline_icn span i {
+        color: #333;
+        font-size: 20px;
+    }
+
+    .esca_list .lbl_value {
+        font-size: 16px;
+    }
+
+.lists_tab li {
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+    display: inline-block;
+    list-style: outside none none;
+    margin-bottom: -2px;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+    .lists_tab li a {
+        font-size: 18px;
+        font-weight: 500;
+        text-decoration: none;
+    }
+
+.lists_tab ul li.ui-tabs-active, .lists_tab ul li:hover {
+    border-bottom: 2px solid #f29634;
+    transition: all 0.4s ease 0s;
+}
+
+    .lists_tab ul li.ui-tabs-active a, .lists_tab ul li:hover a {
+        color: #f29634;
+        transition: all 0.4s ease 0s;
+    }
+
+.lists_tab ul li a label {
+    cursor: pointer;
+}
+
+.list_tb_dtl {
+    border-bottom: 1px solid #ccc;
+    padding-top: 25px;
+}
+
+.wrk_dtl {
+    padding-bottom: 40px;
+}
+
+.exp_dtl h4 {
+    font-size: 18px;
+    padding-bottom: 15px;
+    color: #F39A34;
+}
+
+.exp_dtl p {
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+
+.wrk_dtl h4 {
+    font-size: 18px;
+    padding-bottom: 15px;
+    color: #F39A34;
+}
+
+.sub_dtl {
+    padding-bottom: 10px;
+}
+
+    .sub_dtl:last-child {
+        padding-bottom: 0px;
+    }
+
+    .sub_dtl .title {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .sub_dtl .info {
+        font-size: 15px;
+    }
+
+        .sub_dtl .info highlight {
+            font-weight: 500;
+            color: #666;
+        }
+
+.wrk_time {
+    padding: 60px 0;
+}
+
+    .wrk_time h4 {
+        font-size: 16px;
+        padding-bottom: 7px;
+    }
+
+.skill_tb {
+    padding-top: 25px;
+    border-bottom: 1px solid #ccc;
+}
+
+.skl_title h4 {
+    color: #f39a34;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.skill_typ {
+    padding-bottom: 25px;
+}
+
+.skill_info {
+    padding-bottom: 15px;
+}
+
+    .skill_info h5 {
+        padding: 5px 0;
+    }
+
+    .skill_info h6 label {
+        font-size: 14px;
+        color: #aeaeae;
+    }
+
+.progress-bar-wrapper progress {
+    background-color: rgb(220, 229, 233);
+    border: 0;
+    display: inline-block;
+    height: 8px;
+    vertical-align: middle;
+    width: 75%;
+}
+
+.progress-value {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.edu_tb {
+    padding-top: 25px;
+}
+
+.edu_info {
+    padding-bottom: 20px;
+}
+
+    .edu_info:last-child {
+        padding-bottom: 0;
+    }
+
+.edu_dtl h4 {
+    color: #f39a34;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.sub_edu_dtl h4 {
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+
+.sub_edu_dtl label {
+    font-size: 16px;
+}
+
+.edu_wrk_time {
+    text-align: center;
+}
+
+    .edu_wrk_time h4 {
+        padding-top: 10px;
+        font-size: 16px;
+    }
+
+.skill_tb_1 {
+    padding-top: 25px;
+}
+
+.list_tb_dtl_1 {
+    padding-top: 25px;
+}
+
+.app_list.hdr_typ {
+    padding-bottom: 10px;
+}
+
+.app_list_tab li {
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+    display: inline-block;
+    list-style: outside none none;
+    margin-bottom: -2px;
+    padding: 15px 20px;
+    text-align: center;
+}
+
+    .app_list_tab li a {
+        font-size: 18px;
+        font-weight: 500;
+        text-decoration: none;
+    }
+
+.app_list_tab ul li.ui-tabs-active, .app_list_tab ul li:hover {
+    border-bottom: 2px solid #f29634;
+    transition: all 0.4s ease 0s;
+}
+
+    .app_list_tab ul li.ui-tabs-active a, .app_list_tab ul li:hover a {
+        color: #f29634;
+        transition: all 0.4s ease 0s;
+    }
+
+.app_list_tab ul li a label {
+    cursor: pointer;
+}
+
+.app_tab_row {
+    padding-bottom: 10px;
+}
+
+    .app_tab_row .rw_bg {
+        background: #f3f3f3 none repeat scroll 0 0;
+    }
+
+    .app_tab_row .lbl_value label {
+        font-size: 14px;
+    }
+
+    .app_tab_row h4.lbl_name {
+        font-size: 16px;
+    }
+
+.member_list {
+    padding-bottom: 20px;
+}
+
+    .member_list:last-child {
+        padding-bottom: 0;
+    }
+
+.hdr_typ.othr_client_list {
+    padding-bottom: 30px;
+}
+
+.member_list h4.lbl_name {
+    font-size: 16px;
+}
+
+.member_list .lbl_value {
+    font-size: 14px;
+}
+
+.prjct_timeline {
+    position: relative;
+}
+
+    /*.prjct_timeline:before {
+        content: "";
+        width: 2px;
+        height: 100%;
+        background: #017DB9;
+        left: 4.3%;
+        top: 0;
+        position: absolute;
+    }*/
+
+.prjct_type_list {
+    padding-bottom: 20px;
+}
+
+    .prjct_type_list:last-child {
+        padding-bottom: 0;
+    }
+
+.prjct_img {
+    text-align: center;
+}
+
+.prjct_info h4.lbl_name {
+    font-size: 16px;
+}
+
+.prjct_info .lbl_value {
+    font-size: 16px;
+}
+
+.prjct_tym h6.lbl_name {
+    font-size: 15px;
+    text-align: right;
+    padding-bottom: 5px;
+}
+
+.prjct_tym h6.lbl_value {
+    font-size: 15px;
+    text-align: right;
+}
+
+.prjct_status {
+    background-color: green;
+    border-radius: 50%;
+    height: 13px;
+    left: 0;
+    position: absolute;
+    top: 5px;
+    width: 13px;
+}
+
+
+/*      end list widgets       */
+/*      calender widgets       */
+
+
+.cmn_calender_gjt {
+    background-color: #fff;
+    border: 1px solid #ccc;
+   
+}
+
+    .team_cal .hdr_typ {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
+.Default_cal 
+{
+   
+}
+
+.Default_cal .hdr_typ {
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+/*      end calender widgets       */
+=======
+.sub_rate {
+    padding-bottom: 20px;
+}
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 /*  end all widget  */
 

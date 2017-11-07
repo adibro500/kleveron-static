@@ -201,6 +201,19 @@
         padding-top: 22px;
     }
     /*  end my jobs */
+<<<<<<< HEAD
+
+    /*  widgets */
+    
+
+    .progress_ratio p {
+        font-size: 11px;
+    }
+    /* end  widgets */
+
+
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 }
 
 @media screen and (max-width: 1366px) {
@@ -312,17 +325,32 @@
         font-size: 22px;
     }
 
+<<<<<<< HEAD
+    .page_header {
+        padding: 0px 15px;
+    }
+
+=======
     .page_header{
         padding: 0px 15px;
     }
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
     .page_content {
         padding-left: 15px;
         padding-right: 15px;
     }
+<<<<<<< HEAD
+
+    .page_header .icon-img {
+        margin: 10px 0px;
+        width: 30px;
+    }
+=======
         .page_header .icon-img {
             margin: 10px 0px;
             width: 30px;
         }
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 
     .menu {
         padding: 4px 0px 10px 0px;
@@ -384,6 +412,19 @@
         padding: 6px 0;
         width: 100px;
     }
+<<<<<<< HEAD
+    /*  widgets */
+    .evnt_nm .circle {
+     
+        margin-right: 0;
+        
+    }
+    .evnt_nm span {
+       padding-right:0;
+    }
+    /* end  widgets */
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 }
 
 @media screen and (max-width: 1280px) {
@@ -623,9 +664,16 @@
         margin: 0 15px;
     }
 
+<<<<<<< HEAD
+    .page_header {
+        padding: 0px 10px;
+    }
+
+=======
     .page_header{
         padding: 0px 10px;
     }
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
     .page_content {
         padding-left: 10px;
         padding-right: 10px;
@@ -1168,6 +1216,22 @@
         margin: 0 auto 30px;
         width: 290px;
     }
+<<<<<<< HEAD
+    /*  widgets */
+    .srch_widget {
+        padding: 0;
+    }
+
+    .srch_btn {
+        display: none;
+    }
+
+   
+    /* end  widgets */
+
+
+=======
+>>>>>>> 5bd3713650777ac6b0d4c7133af4480b51598b9e
 }
 
 @media screen and (max-width: 480px) {
